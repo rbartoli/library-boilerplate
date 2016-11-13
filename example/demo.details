@@ -1,0 +1,10 @@
+ /*
+ ---
+ name: library example
+ description: Shows how to get started with library
+ authors:
+   - Riccardo Bartoli
+ normalize_css: no
+ js_wrap: b
+ ...
+ */

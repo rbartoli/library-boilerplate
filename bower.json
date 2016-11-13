@@ -1,0 +1,27 @@
+{
+  "name": "library",
+  "version": "0.1.0",
+  "description": "",
+  "main": [
+    "dist/library.js",
+    "dist/library.min.js"
+  ],
+  "authors": [
+    "Riccardo Bartoli <info@rblab.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "library"
+  ],
+  "homepage": "https://github.com/rbartoli/library",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "coverage",
+    "example",
+    "node_modules",
+    "src",
+    "test",
+    "webpack.config.babel.js"
+  ]
+}
